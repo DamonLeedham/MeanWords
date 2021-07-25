@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MeanWords" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="apiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">f346a4r2m2XKCq6AOdiIUT9ByE2AF9D9asUB7Olb5KjxVNqqrcUrvxwk</Value>
+    </Setting>
+    <Setting Name="spareapiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ce1d364h7oRgw98kO9qXBw7ZM3hhap0oOvM0yLkUAH0qXZAHpWBt4izj</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
